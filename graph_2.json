@@ -1,0 +1,230 @@
+{
+    "nodes":[
+        {
+            "group":0,
+            "name":"LINK 281"
+        },
+        {
+            "group":1,
+            "name":"Group 19"
+        },
+        {
+            "group":2,
+            "name":"Goldman, Sachs & Co."
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Execution & Clearing, L.P."
+        },
+        {
+            "group":2,
+            "name":"Mercer Allied Company, L.P."
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Financial Markets, L.P."
+        },
+        {
+            "group":2,
+            "name":"Gsam Stable  Value, Llc"
+        },
+        {
+            "group":2,
+            "name":"The Ayco Company,L.P."
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Asset Management International"
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Asset Management, L.P."
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Hedge Fund Strategies Llc"
+        },
+        {
+            "group":2,
+            "name":"Gs Investment Strategies, Llc"
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Global Advisory Products Llc"
+        },
+        {
+            "group":2,
+            "name":"Goldman Sachs Realty Management, L.P."
+        },
+        {
+            "group":2,
+            "name":"Group 292"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Execution Clearing L P"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Financial Markets L P"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Group Inc"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Co"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Asset Management L P"
+        },
+        {
+            "group":3,
+            "name":"J Aron Co"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Trust Company N A"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs Bank Ag"
+        },
+        {
+            "group":3,
+            "name":"Ayco Co L P"
+        },
+        {
+            "group":3,
+            "name":"Goldman Sachs International"
+        },
+        {
+            "group":4,
+            "name":"Your Mom, Inc."
+        }
+    ],
+    "links":[
+        {
+            "source":1,
+            "target":0,
+            "value":10
+        },
+        {
+            "source":2,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":3,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":4,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":5,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":6,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":7,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":8,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":9,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":10,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":11,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":12,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":13,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":14,
+            "target":0,
+            "value":1
+        },
+        {
+            "source":15,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":16,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":17,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":18,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":19,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":20,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":21,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":22,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":23,
+            "target":14,
+            "value":1
+        },
+        {
+            "source":24,
+            "target":14,
+            "value":1
+        }
+    ]
+}
